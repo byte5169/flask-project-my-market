@@ -1,0 +1,19 @@
+{
+    "python.pythonPath": "/Users/a_irshenko/opt/anaconda3/envs/flask/bin/python",
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "askForPassword": true,
+            "driver": "MySQL",
+            "name": "1",
+            "database": "D:\\python data folder\\flask_project\\market.db",
+            "username": "1"
+        }
+    ],
+    "python.formatting.provider": "black"
+}
